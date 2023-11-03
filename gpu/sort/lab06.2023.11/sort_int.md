@@ -1,4 +1,5 @@
 ## Summary
+to sort 200M integers, gpu is ~4x faster than cpu
 ```
 % ./k11
 2023-11-03 14:00:08 6core 15gb avx2 Linux gpu(NVIDIA GeForce GTX 1080 Ti) 0.11 test
